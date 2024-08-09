@@ -33,21 +33,25 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Manuela Profir
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-dj8lBGV2DVmGrQR
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+ - Full Name: Giuliana Siddi Moreau
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-guPWoCMdZtRWOu1
+ 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+- [x] Task 1: 1_learnings_from_PennylaneCodebook_TheQries.ipynb
+- [x] Task 2: 2_variational_classifier_TheQries.ipynb
+- [x] Task 3: 3_quanvolutionalNN_TheQries.ipynb
+- [x] Task 4: 4_sine_learning_TheQries.ipynb
+- [x] Task 5: 5_TIG_Aluminium_5083_TheQries-quanvol-2x2.ipynb + 5_TIG_Aluminium_5083_TheQries-quanvol-2x2.ipynb + 5_TIG_Aluminium_5083_TheQries-variational_classifier.ipynb 5_TIG_Aluminium_5083_TheQries_datapreps.ipynb
+
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+-TheQries_slidedeck.pdf
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
